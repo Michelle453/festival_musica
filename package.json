@@ -2,9 +2,11 @@
   "name": "festival_musica",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass --watch assets/scss:built/css",
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,8 @@
   },
   "homepage": "https://github.com/Michelle453/festival_musica#readme",
   "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
     "sass": "^1.87.0"
   }
 }
