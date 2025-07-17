@@ -22,6 +22,9 @@
             height: 20rem;
             object-fit: cover;
         }
+        &:hover{
+            cursor: pointer;
+        }
     }
 }
 
