@@ -6,7 +6,7 @@ This project is an informative website about a music festival, built with HTML, 
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Tech Stack
 
 - 🧩 HTML5
 - 🎨 Sass (SCSS)
