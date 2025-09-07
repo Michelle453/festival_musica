@@ -1,4 +1,4 @@
-# 🎵 Festival de Música - Sitio Web
+# 🎵 Festival de Música - Website
 
 [🌐 Live Demo](https://festivalmusicaelectronica.netlify.app/) 
 
