@@ -1,8 +1,8 @@
 # 🎵 Festival de Música - Sitio Web
 
-[🌐 Ver sitio en vivo](https://festivalmusicaelectronica.netlify.app/) <!-- Reemplaza con el enlace real -->
+[🌐 Live Demo](https://festivalmusicaelectronica.netlify.app/) 
 
-Este proyecto es un sitio web informativo sobre un **festival de música**, desarrollado con HTML, Sass, JavaScript y herramientas de automatización modernas. La página es totalmente **responsive**, cumple con buenas prácticas de **web performance** (como uso de imágenes `.webp` y `.avif`), y utiliza **Gulp** para optimizar el flujo de desarrollo y compilación.
+This project is an informative website about a music festival, built with HTML, Sass, JavaScript, and modern automation tools. The site is fully responsive, follows good web performance practices (such as using `.webp` and `.avif` images), and leverages Gulp to streamline the development and build process.
 
 ---
 
@@ -17,18 +17,18 @@ Este proyecto es un sitio web informativo sobre un **festival de música**, desa
 
 ---
 
-## 🌟 Características principales
+## 🌟 Main Features
 
-- ✅ Diseño responsive para móviles, tabletas y escritorio.
-- 🎧 Estética moderna adaptada a un festival musical.
-- 🖼️ Imágenes optimizadas en formatos WebP y AVIF.
-- 📁 Estructura modular con Sass.
-- ⚡️ Automatización de tareas con Gulp (compilación, minificación, etc.).
-- 💡 Código limpio, estructurado y mantenible.
+- ✅ Responsive design for mobile, tablet, and desktop.
+- 🎧 Modern aesthetic tailored for a music festival.
+- 🖼️ Optimized images in WebP and AVIF formats.
+- 📁 Modular structure with Sass.
+- ⚡️ Automated tasks with Gulp (compilation, minification, etc.).
+- 💡 Clean, structured, and maintainable code.
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 Project Structure
 📦 festival-musica
 ```
 ├── assets
@@ -54,19 +54,19 @@ Este proyecto es un sitio web informativo sobre un **festival de música**, desa
 
 ---
 
-## ⚙️ ¿Cómo instalar y correr el proyecto?
+## ⚙️ How to Install and Run the Project?
 
-1. **Clona el repositorio:**
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/Michelle453/festival_musica.git
 ```
-2. **Instala las dependencias:**
+2. **Install dependencies:**
 npm install
 
-3. **Ejecuta gulp para el desarrollo en bash:**
+3. **Run Gulp for development (bash):**
 npm run dev
 
-4. **Abre tu navegador en http://localhost:3000 (o el puerto indicado) para ver el proyecto en vivo**
+4. **Open your browser at http://localhost:3000 (or the specified port) to see the project running.**
 
-⭐ ¡Si te gustó el proyecto, no olvides darle una estrella en GitHub! ⭐
+⭐ If you liked the project, don’t forget to give it a star on GitHub! ⭐
